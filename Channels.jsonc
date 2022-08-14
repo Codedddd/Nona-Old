@@ -1,0 +1,9 @@
+{
+    "Channel-Names" : [
+        "A", //Add as many channel name strings as you want with plain UTF-8 chars seperated by comma's | NO SPECIAL CHARACTERS ETC!!!
+        "B",
+        "C",
+        "D",
+        "E"
+    ]
+}
